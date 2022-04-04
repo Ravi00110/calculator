@@ -15,6 +15,8 @@ int main()
   
     if (C >= A && C >= B)
         printf("%d is the largest number.", C);
+        printf ("thanks for using my code ");
   
     return 0;
+
 }
